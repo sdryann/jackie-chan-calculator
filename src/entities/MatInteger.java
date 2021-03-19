@@ -7,11 +7,8 @@ public class MatInteger {
 	public MatInteger() {
 	}
 	
-	public MatInteger(int x,int y){
-		Integer[][] matrix = new Integer[x][y];
-		
-		
-		
-	}
+	
+	
+	
 
 }
